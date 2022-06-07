@@ -39,3 +39,18 @@ Support for diverse workloads, including data engineering, data science, machine
 ## Delta lake
 Baseado em um formato aberto de arquivo o parquet o delta implementa controle de transação ACID. Ele foi pensado para a governança de dados.
 ![Delta lake](img/delta-lake.png)
+
+## Databricks SQL
+SQL Databricks possui diversas camadas 
+
+![SQL Databricks arquitetura](img/performance-query-databricks.png)
+
+**JDBC/ODBC**
+ é uma interface para acesso ao database ele tem mais uma camada embutida o ODBC
+
+**SQL endpoint** faz o roteamento dos recursos trabalhando com load balance
+
+**Query planning** é otimizada para ser 18 vezes mais rápido
+**Photon** Engine de busca feito para processamento paralelo 
+Querys no SQL endpoint podem ser feita para ser executadas em tempos em tempos. Como pode se definir alertas.
+
