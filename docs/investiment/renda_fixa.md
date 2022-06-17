@@ -9,7 +9,7 @@ Se compro por exemplo fixado num valor anual de 13% aa. Pode parecer positivo. E
 Resumo:
 
 - péssimo para reserva de emergência, pois pode desvalorizar com a marcação ao mercado.
-- Tem rentabilidade fixa, o que pode ser bom caso a inflação fique controlada e pode ter uma rentabilidade superior, mas se estourar vc perde dinheiro.s
+- Tem rentabilidade fixa, o que pode ser bom caso a inflação fique controlada e pode ter uma rentabilidade superior, mas se estourar vc perde dinheiro.
 
 
 ## Tesouro Selic
