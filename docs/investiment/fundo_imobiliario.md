@@ -1,0 +1,2 @@
+# Fundos imobiliários
+São investimentos em imóveis, que podem ser fundos de papel ou de tijolo. Eles podem ser vendidos a qualquer momento. Entretanto você pode perder dinheiro caso o valor das cotas caia. Isso depende muito da demanda por eles. Eles têm a característica de pagar um yield. Que é a parte do aluguel dos imóveis.
